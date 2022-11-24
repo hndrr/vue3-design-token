@@ -1,0 +1,18 @@
+:root {
+    --colors-primary-50: #ffe9d9;
+    --colors-orange-50: #ffe9d9;
+    --colors-orange-100: #ffd3b3;
+    --colors-orange-200: #ffbd8d;
+    --colors-orange-300: #ffa666;
+    --colors-orange-400: #ff9040;
+    --colors-orange-500: #ff7a1a;
+    --colors-orange-600: #e15e00;
+    --colors-orange-700: #a94700;
+    --colors-orange-800: #702f00;
+    --colors-orange-900: #381800;
+  }
+  
+  html.dark :root {
+    --colors-primary-50: #381800;
+  }
+  
